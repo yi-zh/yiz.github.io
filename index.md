@@ -1,15 +1,23 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Yi Zhang
+  I'm still editing my website!
+
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "I'm interested in something."
 ---
 
+HHH
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} 
+
+{% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS“ color="#0d94e7" %} 
+
+{% include button.html text="LinkedIn“" link=https://www.linkedin.com/in/yi-zhang-433567132/" %}
+
+{% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
 
 ## Features
 
