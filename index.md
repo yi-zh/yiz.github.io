@@ -13,9 +13,9 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 {% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} 
 
-{% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS“ color="#0d94e7" %} 
+{% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" color="#0d94e7" %} 
 
-{% include button.html text="LinkedIn" link=https://www.linkedin.com/in/yi-zhang-433567132/" %}
+{% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" %}
 
 {% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
 
