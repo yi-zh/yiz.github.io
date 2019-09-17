@@ -11,31 +11,25 @@ excerpt: "I'm interested in something."
 HHH
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} 
+{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" color="#0d94e7" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" %} {% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
 
-{% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" color="#0d94e7" %} 
+## News
 
-{% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" %}
-
-{% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
-
-## Features
-
-- Available as a **theme gem** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- I joined Cainiao corp., Alibaba Group, as a senior algorithm engineer (July, 2019).
+- Zedong Peng published a paper with me on the Journal: Industrial and Engineering Chemistry Research (, 2019).
+- I obtained my Ph.D. degree from College of control science and engineering, Zhejiang University (July, 2019).
+- With great pleasure, I started to work as a long-term collaborative developer for the global solver BARON (April, 2019).
+- Wei Feng published a paper with me on the Journal: Computers and Chemical Engineering (, 2019).
+- Prof. Nick Sahinidis gave a oral presentation on my work: Optimality-based domain reduction on inequality-constrained MINLP problems (December, 2018).
+- My lovely advisor Prof. Gang Rong (1963-2018) will be remembered for his excellence and kindness (October, 2018).
+- I won the honorable prize (rank: 6th) from the Global Optimization Competition, organized by the JD company in China (October, 2018).
+- The global mixed-integer nonlinear programming (MINLP) solver BARON 12.xx was released with one main update: domain reduction is improved (xxx, 2018).
+- I visited Prof. Nick Sahinidis's Group in the Department of chemical engineering, Carnegie Mellon University for a year (September, 2017 - September, 2018).
+- Our works about Data-driven Robust Optimization are published online (xxx, 2017 - xxx 2018). 
+- My first research work Reference model and key technologies in smart factory (in Chinese) is published on Journal: jxjjczh (January, 2016).
+- I won the excellent paper award in ISIPS-2015 (Novemberm 2015).
+- I gave my first oral presentation in the xth Symposium, IPS, Waseda University, Japan (November, 2015).
+- I joined Prof. Gang Rong's Group (RGLab) and started my Ph.D. career (July, 2014). 
 
 ## Examples
 
