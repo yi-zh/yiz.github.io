@@ -34,14 +34,12 @@ I'm exploring all interests in Global Optimization, Artificial Intelligence, Dat
 
 ### Data-driven Robust Optimization
 - [Reprint of: Data-driven robust optimization under correlated uncertainty: A case study of production scheduling in ethylene plant](https://www.researchgate.net/publication/328404793_Reprint_of_Data-driven_robust_optimization_under_correlated_uncertainty_A_case_study_of_production_scheduling_in_ethylene_plant)
-  Yi Zhang, Xuanzhi Jin, Yiping Feng, Gang Rong
-  Computers & Chemical Engineering, October, 2018
+
+  Yi Zhang, Xuanzhi Jin, Yiping Feng, Gang Rong, _Computers & Chemical Engineering_, October, 2018
 
 - Data-driven Rolling-horizon Robust Optimization for Petrochemical Scheduling Using Probability Density Contours
 
-Yi Zhang, Yiping Feng, Gang Rong
-
-Computers & Chemical Engineering, April, 2018
+Yi Zhang, Yiping Feng, Gang Rong, _Computers & Chemical Engineering_, April, 2018
 
 - Data-driven robust optimization under correlated uncertainty: A case study of production scheduling in ethylene plant
 
