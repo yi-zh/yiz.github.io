@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "Yi Zhang"
+  spec.name          = "Alembic"
   spec.version       = "3.1.0"
   spec.authors       = ["David Darnes"]
   spec.email         = ["me@daviddarnes.com"]
