@@ -2,11 +2,13 @@
 title: About Me
 feature_text: |
   ## Yi Zhang
-  Doctor; Working in [Cainiao AI, Alibaba Group](https://github.com/daviddarnes/alembic/blob/master/_config.yml); Developer of the global MINLP solver: BARON
+  Doctor; Working in [Cainiao AI, Alibaba Group](https://github.com/daviddarnes/alembic/blob/master/_config.yml); Developer of the global MINLP solver: [BARON](https://minlp.com/home)
 
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!"
 ---
+I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comment\
+s on these fields are welcomed! Here is my brief introduction:
 
 - PhD in Control Science and Engineering with emphasize on modeling, simulation, optimization in process system engineering
 
