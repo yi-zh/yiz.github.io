@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!"
 ---
 
-{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" color="#0d94e7" %} {% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
+{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/yi-zhang-433567132/" color="#0d94e7" %} {% include button.html text="Email" link="https://www.baidu.com/" color="#333333" %}
 
 I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed! Here is my brief introduction:
 
