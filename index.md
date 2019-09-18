@@ -2,16 +2,23 @@
 title: About Me
 feature_text: |
   ## Yi Zhang
-  I'm still editing my website!
+  Doctor; Working in [Cainiao AI, Alibaba Group](https://github.com/daviddarnes/alembic/blob/master/_config.yml); Developer of the global MINLP solver: BARON
 
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "I'm interested in something."
+excerpt: "I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!"
 ---
 
-HHH
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+- PhD in Control Science and Engineering with emphasize on modeling, simulation, optimization in process system engineering
 
-{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" color="#0d94e7" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" %} {% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
+- Admirer and developer of global mixed-integer nonlinear programming (MINLP) solver: BARON
+
+- Interdisciplinary background in optimization, data science, control theory
+
+- Exploring academic and career interests through applying reinforcement learning to industrial optimization problems
+
+- Expertise in programming languages (Python, Fortran, R) and solvers (BARON, DICOPT, CPLEX, GUROBI, CBC, SCIP, etc.)
+
+{% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" icon="twitter" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/yi-zhang-433567132/" color="#0d94e7" %} {% include button.html text="Others" link="https://www.baidu.com/" color="#333333" %}
 
 ## News
 
