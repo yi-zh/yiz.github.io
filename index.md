@@ -21,7 +21,7 @@ I'm exploring all interests in Global Optimization, Artificial Intelligence, Dat
 - [Prof. Nick Sahinidis](http://archimedes.cheme.cmu.edu) gave an presentation on my work in [2018 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/phoenix2018/) : Optimality-based domain reduction on inequality-constrained MINLP problems (November, 2018).
 - Rui Zhang published a work with me on the Journal Industrial and Engineering Chemistry Research (December, 2018).
 - My lovely advisor [Prof. Gang Rong](https://www.researchgate.net/profile/Gang_Rong?_sg=ph2ZNqaeSwMUL8j85WTahlTGdNmIxxGQSY-rfIJON6s8pmu0BLQLQIdngiDOUnmaG3Kcai8YCzjyPxYdKVjpZqW33Br9py-H) (1963-2018) will be remembered for his excellence and kindness (October, 2018).
-- I won the globally 6th place in the [Global Optimization Competition (GOC)](https://weaver.jd.com/?lang=en-us#/ActDetail/key=2) hosted by the [JD.com](https://www.jd.com) in China (October, 2018).
+- I won the globally 6th place in the [Global Optimization Competition (GOC)](https://weaver.jd.com/?lang=en-us#/ActDetail/key=2) hosted by [JD.com](https://www.jd.com) in China (October, 2018).
 - The global mixed-integer nonlinear programming (MINLP) solver [BARON 18](https://minlp.com/baron-release-history) was released with one main update: new reduction techniques are implemented (June, 2018).
 - I visited [Prof. Nick Sahinidis's Group](http://archimedes.cheme.cmu.edu) in the [Center for advanced process decision-making (CAPD)](http://capd.cheme.cmu.edu), Department of chemical engineering, Carnegie Mellon University for a year (September, 2017 - September, 2018).
 - Our works about Data-driven Robust Optimization are published online (May, 2016 - October, 2018). 
@@ -34,10 +34,8 @@ I'm exploring all interests in Global Optimization, Artificial Intelligence, Dat
 
 ### Data-driven Robust Optimization
 - [Reprint of: Data-driven robust optimization under correlated uncertainty: A case study of production scheduling in ethylene plant](https://www.researchgate.net/publication/328404793_Reprint_of_Data-driven_robust_optimization_under_correlated_uncertainty_A_case_study_of_production_scheduling_in_ethylene_plant)
-
-Yi Zhang, Xuanzhi Jin, Yiping Feng, Gang Rong
-
-Computers & Chemical Engineering, October, 2018
+  Yi Zhang, Xuanzhi Jin, Yiping Feng, Gang Rong
+  Computers & Chemical Engineering, October, 2018
 
 - Data-driven Rolling-horizon Robust Optimization for Petrochemical Scheduling Using Probability Density Contours
 
