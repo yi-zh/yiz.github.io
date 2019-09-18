@@ -7,9 +7,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!"
 ---
-I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comment\
-s on these fields are welcomed! Here is my brief introduction:
-
+I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed! Here is my brief introduction:
 - PhD in Control Science and Engineering with emphasize on modeling, simulation, optimization in process system engineering
 
 - Admirer and developer of global mixed-integer nonlinear programming (MINLP) solver: BARON
