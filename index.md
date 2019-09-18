@@ -9,16 +9,16 @@ excerpt: "I'm exploring all interests in Global Optimization, Artificial Intelli
 
 {% include button.html text="Google Scholar" icon="github" link="https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&authuser=1" color="#0366d6" %} {% include button.html text="ResearchGate" link="https://www.researchgate.net/profile/Yi_Zhang542?ev=hdr_xprf&_sg=L4oZgedjMKoVSGpe_hqhYbgUJxZ0pRobo9tWNelMYQ7VK13SkO9DlWNx2mnd8jiE06SDK4EllfdhW3IURRxUukAS" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/yi-zhang-433567132/" color="#0d94e7" %} {% include button.html text="Email" icon="email" link="https://www.baidu.com/" color="#333333" %}
 
-I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimizationtheories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!
+I'm exploring all interests in Global Optimization, Artificial Intelligence, Data-driven Optimization theories, and their applications in Smart Manufacturing. All ideas, discussions, and comments on these fields are welcomed!
 
 ## News
 
 - I joined [Cainiao AI, Alibaba Group](https://www.cainiao.com), as a senior algorithm engineer (July, 2019).
 - Zedong Peng published a paper with me on the Journal: Industrial and Engineering Chemistry Research (July, 2019).
 - I obtained my Ph.D. degree from College of control science and engineering, Zhejiang University (July, 2019).
-- With great pleasure, I started to work as a long-term collaborative developer for the global solver [BARON](https://minlp.com/baron) (April, 2019).
+- With great pleasure, I started working as a long-term collaborative developer for the global solver [BARON](https://minlp.com/baron) (April, 2019).
 - Wei Feng published a paper with me on the Journal: Computers and Chemical Engineering (March, 2019).
-- [Prof. Nick Sahinidis](http://archimedes.cheme.cmu.edu) gave a oral presentation on my work: Optimality-based domain reduction on inequality-constrained MINLP problems (December, 2018).
+- [Prof. Nick Sahinidis](http://archimedes.cheme.cmu.edu) gave an presentation on my work in [2018 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/phoenix2018/) : Optimality-based domain reduction on inequality-constrained MINLP problems (November, 2018).
 - Rui Zhang published a work with me on the Journal Industrial and Engineering Chemistry Research (December, 2018).
 - My lovely advisor [Prof. Gang Rong](https://www.researchgate.net/profile/Gang_Rong?_sg=ph2ZNqaeSwMUL8j85WTahlTGdNmIxxGQSY-rfIJON6s8pmu0BLQLQIdngiDOUnmaG3Kcai8YCzjyPxYdKVjpZqW33Br9py-H) (1963-2018) will be remembered for his excellence and kindness (October, 2018).
 - I won the globally 6th place in the [Global Optimization Competition (GOC)](https://weaver.jd.com/?lang=en-us#/ActDetail/key=2) hosted by the [JD.com](https://www.jd.com) in China (October, 2018).
