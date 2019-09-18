@@ -86,7 +86,7 @@ title: "Yi Zhang" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://yi-zh.github.io/yiz.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "https://yi-zh.github.io/yiz.github.io"
+baseurl: "yiz.github.io"
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -109,15 +109,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /yiz.github.io/
+  url: /
 - title: Elements
-  url: /yiz.github.io/elements/
+  url: /elements/
 - title: Blog
-  url: /yiz.github.io/blog/
+  url: /blog/
 - title: Categories
-  url: /yiz.github.io/categories/
+  url: /categories/
 - title: Search
-  url: /yiz.github.io/search/
+  url: /search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
