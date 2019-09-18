@@ -109,15 +109,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /yiz.github.io/
 - title: Elements
-  url: /elements/
+  url: /yiz.github.io/elements/
 - title: Blog
-  url: /blog/
+  url: /yiz.github.io/blog/
 - title: Categories
-  url: /categories/
+  url: /yiz.github.io/categories/
 - title: Search
-  url: /search/
+  url: /yiz.github.io/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
